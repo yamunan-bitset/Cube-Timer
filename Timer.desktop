@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Timer
+Exec=/media/anirudh/Programming/PythonProjects/DisplayTimer/main.py
+Icon=/home/anirudh/Pictures/cstimer.png
+Terminal=false
+Type=Application
